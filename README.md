@@ -1,6 +1,6 @@
 ## Hello World! 👋 It's Ale!
 
-✨I'm a Full Stack Developer✨. I appreciate the art of cinnema and filmmaking. I ❤️ nature. Sometimes a variety-content Streamer 😎
+✨I'm a Full Stack Developer✨. I appreciate the art of cinnema and filmmaking. Sometimes a variety-content Streamer 😎. I ❤️ nature. 
 
 <br/>
 
