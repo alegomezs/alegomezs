@@ -1,10 +1,6 @@
-# Hello World! 👋 It's Ale!
+## Hello World! 👋 It's Ale!
 
-## ✨I'm a Full Stack Developer✨
-
-## More about me
-
-I appreciate the art of cinnema and filmmaking 🎬. Sometimes a variety-content Streamer, so stay tunned 😎. Father of Felicia 😺. I ❤️ nature. 
+✨I'm a Full Stack Developer✨. I appreciate the art of cinnema and filmmaking 🎬. Sometimes a variety-content Streamer, so stay tunned 😎. Father of Felicia 😺. I respect life and nature 🌌. In ❤️ with Cele. 
 
 <br/>
 
