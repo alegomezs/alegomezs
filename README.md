@@ -24,7 +24,7 @@
 - 🔭 I’m currently a Supervisor at [PRISMA](https://www.linkedin.com/company/prisma-medios-de-pago/).
 - 🌱 I’m currently learning [.NET Framework](https://github.com/topics/dotnet) + [Angular](https://github.com/topics/angular).
 - 👯 I’m looking to collaborate on anything that implies throwing <code>code lines</code>!
-- 📫 Get in touch: [Gmail](mailto:agomezsantillan11@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) / [Outlook](mailto:ale.gomezs@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 Get in touch: [Gmail](mailto:agomezsantillan11@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [Outlook](mailto:ale.gomezs@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br />
 
