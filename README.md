@@ -5,16 +5,16 @@
 <br/>
 
 <a href="https://twitter.com/_alegomezs">
-<img align="left" alt="Alejandro Gomez Santillán Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+<img align="left" alt="Alejandro Gomez Santillán Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=1f6feb" />
 </a>
 <a href="https://www.linkedin.com/in/agomezsantillan">
-<img align="left" alt="Alejandro Gomez Santillán LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Alejandro Gomez Santillán LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=1f6feb" />
 </a>
 <a href="https://www.instagram.com/_alegomezs">
-<img align="left" alt="Alejandro Gomez Santillán Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+<img align="left" alt="Alejandro Gomez Santillán Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=1f6feb" />
 </a>
 <a href="https://www.twitch.tv/alegomezs">
-<img align="left" alt="Alejandro Gomez Santillán Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
+<img align="left" alt="Alejandro Gomez Santillán Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=1f6feb" />
 </a>
 
 <br />
