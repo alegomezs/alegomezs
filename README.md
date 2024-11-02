@@ -41,4 +41,3 @@ Sometimes a variety-content Streamer, so stay tunned 😎. I appreciate the art 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/20cbfe6df1ff6b1224150cf357924de0c6bbe7af/topics/drupal/drupal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
