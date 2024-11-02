@@ -25,7 +25,7 @@ Sometimes a variety-content Streamer, so stay tunned 😎. I appreciate the art 
 
 - 🔭 I’m currently an Operations Supervisor at [Atento](https://atento.com/es/).
 - 🌱 In constant growth and improvement.
-- 👯 I’m looking foward to collaborate on anything that implies throwing some <code>lines of code</code>!
+- 🥷 I’m looking foward to collaborate on anything that implies throwing some <code>lines of code</code>!
 - 📫 Get in touch: [Gmail](mailto:alegomezsantillan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [Outlook](mailto:ale.gomezs@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <br />
